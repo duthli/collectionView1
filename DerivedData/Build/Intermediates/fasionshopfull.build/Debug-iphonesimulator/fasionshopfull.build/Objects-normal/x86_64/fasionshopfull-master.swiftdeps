@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "17ab7d3126654995114f8c69301bd402"
+build_time: [527501647, 968022000]
+inputs:
+  "/Users/hung/Desktop/Swift/fasionshopfull/fasionshopfull/AppDelegate.swift": [527499244, 0]
+  "/Users/hung/Desktop/Swift/fasionshopfull/fasionshopfull/ViewHome.swift": [527501636, 0]
+  "/Users/hung/Desktop/Swift/fasionshopfull/fasionshopfull/ViewController.swift": [527499244, 0]
+  "/Users/hung/Desktop/Swift/fasionshopfull/fasionshopfull/Item.swift": [527500115, 0]

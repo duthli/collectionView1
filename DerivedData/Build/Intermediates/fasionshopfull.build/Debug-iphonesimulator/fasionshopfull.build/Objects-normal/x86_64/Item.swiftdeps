@@ -1,0 +1,90 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Item"
+provides-nominal:
+- "C14fasionshopfull4Item"
+provides-member:
+- ["C14fasionshopfull4Item", ""]
+provides-dynamic-lookup:
+- "name"
+- "price"
+- "content"
+- "nameImages"
+depends-top-level:
+- "NSObject"
+- !private "StringLiteralType"
+- "String"
+- "Item"
+depends-member:
+- ["PSs9AnyObject", "content"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "name"]
+- ["PSs9AnyObject", "nameImages"]
+- ["PSs9AnyObject", "price"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "content"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "name"]
+- ["PSs11CVarArgType", "nameImages"]
+- ["PSs11CVarArgType", "price"]
+- ["PSs11CVarArgType", ""]
+- ["PSs23CustomStringConvertible", "content"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "name"]
+- ["PSs23CustomStringConvertible", "nameImages"]
+- ["PSs23CustomStringConvertible", "price"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "content"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "name"]
+- ["PSs9Equatable", "nameImages"]
+- ["PSs9Equatable", "price"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "content"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "name"]
+- ["PSs8Hashable", "nameImages"]
+- ["PSs8Hashable", "price"]
+- ["PSs8Hashable", ""]
+- ["C14fasionshopfull4Item", "String"]
+- ["C14fasionshopfull4Item", "content"]
+- ["C14fasionshopfull4Item", "deinit"]
+- ["C14fasionshopfull4Item", "init"]
+- ["C14fasionshopfull4Item", "name"]
+- ["C14fasionshopfull4Item", "nameImages"]
+- ["C14fasionshopfull4Item", "price"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "content"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "name"]
+- ["CSo8NSObject", "nameImages"]
+- ["CSo8NSObject", "price"]
+- ["CSo8NSObject", ""]
+- ["PSo16NSObjectProtocol", "content"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "name"]
+- ["PSo16NSObjectProtocol", "nameImages"]
+- ["PSo16NSObjectProtocol", "price"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["VSs12StaticString", "deinit"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "C14fasionshopfull4Item"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "VSs12StaticString"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "e7c9720208f443269e87ab0ba1c52f90"
